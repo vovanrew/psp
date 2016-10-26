@@ -1,0 +1,9 @@
+-lpthread 
+-ldl
+-ltins
+-std=c++11
+-I include
+
+g++ psp.cpp conf.cpp libsqlite.a tinyxml.a -o psp -ltins -std=c++11 -ldl -lpthread -I include
+
+
