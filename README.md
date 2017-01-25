@@ -14,9 +14,9 @@ saves ip addresses of incoming packets and number of packets from each ip.
 
   b. stop (packets are not sniffed)
 
-  c. show [ip] count (printf number of packets received from ip address)
+  c. show {ip} count (printf number of packets received from ip address)
 
-  d. select iface [iface] (select interface for sniffing)
+  d. select iface {iface} (select interface for sniffing)
 
   e. -- help (show usage information)
 
