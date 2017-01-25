@@ -9,6 +9,7 @@ saves ip addresses of incoming packets and number of packets from each ip.
 3. Statistic is persistent through reboots.
 
 4. The cli support commands:
+
   a. start (packets are being sniffed from now on)
 
   b. stop (packets are not sniffed)
